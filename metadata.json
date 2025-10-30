@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Course Generator",
+  "description": "An AI-powered custom course generator for personalized learning. Users can choose their interests, learning pace, and goals to generate a personalized weekly/monthly plan, track progress, get AI advice, and receive a completion certificate.",
+  "requestFramePermissions": []
+}
